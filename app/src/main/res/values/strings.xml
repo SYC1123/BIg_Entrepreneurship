@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">药品</string>
+    <string name="title_dashboard">提醒</string>
+    <string name="title_notifications">设置</string>
+</resources>
